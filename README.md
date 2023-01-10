@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiral97&theme=react&show_icons=true)
-<img src="https://img.shields.io/badge/" title="badge" alt="badge" width="40" heigth="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 <!--
 **Guiral97/Guiral97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
