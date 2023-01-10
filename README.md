@@ -6,4 +6,4 @@
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiral97&theme=react&show_icons=true)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=guiral97.guiral97)
