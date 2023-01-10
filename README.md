@@ -1,5 +1,5 @@
 ### ¡Hola, Soy Guiral! 🤟
-<a href="https://www.linkedin.com/in/andresmartinez-dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="80" heigth="80"/></a>
+<a href="https://www.linkedin.com/in/andresmartinez-dev/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiral97&theme=react&show_icons=true)
 
 <!--
